@@ -1,2 +1,3 @@
 Bread 2.50
 Eggs 3.40
+Milk - 5.70
